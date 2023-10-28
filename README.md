@@ -1,4 +1,4 @@
 # odin-recipes
-# i love recipes
-# CHICKEN BIRYANI
+This is my famous chicken biryani recipe
+
 
